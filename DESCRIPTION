@@ -1,6 +1,6 @@
 Package: hexbin
-Version: 1.27.2
-Date: 2015-09-17
+Version: 1.27.3
+Date: 2017-09-01
 Title: Hexagonal Binning Routines
 Author: Dan Carr <dcarr@voxel.galaxy.gmu.edu>, ported by Nicholas
         Lewin-Koh and Martin Maechler <maechler@stat.math.ethz.ch>,

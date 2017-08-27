@@ -118,7 +118,7 @@ panel.hexbin <-
 
     if ("r" %in% type) panel.lmline(x, y, ...)
     if ("smooth" %in% type) panel.hexloess(h,...)
-    invisible()
+    #invisible()
 }
 
 panel.hexboxplot <-
